@@ -23,19 +23,19 @@ function Gallery() {
         </div>
         <div className="photo-gallery rooms-container">
           <div className="pic rooms">
-            <img src="room1.jpg" alt="Room 1" />
+            <img src="C:\Users\bhoom\NEW-HOTEL_PROJECT\hotel\src\images\room-1.jpeg" alt="Room 1" />
           </div>
           <div className="pic rooms">
-            <img src="room2.jpg" alt="Room 2" />
+            <img src="C:\Users\bhoom\NEW-HOTEL_PROJECT\hotel\src\images\room-2.jpeg" alt="Room 2" />
           </div>
           <div className="pic rooms">
-            <img src="room3.jpg" alt="Room 3" />
+            <img src="C:\Users\bhoom\NEW-HOTEL_PROJECT\hotel\src\images\room-3.jpeg" alt="Room 3" />
           </div>
           <div className="pic rooms">
-            <img src="room4.jpg" alt="Room 4" />
+            <img src="C:\Users\bhoom\NEW-HOTEL_PROJECT\hotel\src\images\room-4.jpeg" alt="Room 4" />
           </div>
           <div className="pic rooms">
-            <img src="room5.jpg" alt="Room 5" />
+            <img src="C:\Users\bhoom\NEW-HOTEL_PROJECT\hotel\src\images\room-5.jpeg" alt="Room 5" />
           </div>
         </div>
         <div class="photo-gallery bathroom-container">
